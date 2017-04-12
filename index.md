@@ -29,8 +29,8 @@ _You're gonna burn in hell_
 
 [![Hell](https://media2.giphy.com/media/zyN79NoU74pby/200_s.gif)](https://www.youtube.com/watch?v=hUsafOL0kew "Everything Is Hell")
 
-[Hell](https://www.youtube.com/watch?v=hUsafOL0kew)
 
-![Hell](https://media2.giphy.com/media/zyN79NoU74pby/200_s.gif)
+
+![Hell](/common/images/IMG_4438-ANIMATION.gif)
 
 that's about it
