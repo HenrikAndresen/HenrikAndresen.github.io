@@ -5,7 +5,7 @@ There is nothing of interest here.
 Keep on with your programming. 
 
 
-### Marks down with it
+### Mark's down with it
 
 He is
 
@@ -25,15 +25,15 @@ He is
 
 
 **'cause im free**
+ 
 _You're gonna burn in hell_ 
 
 [![Hell](https://media2.giphy.com/media/zyN79NoU74pby/200_s.gif)](https://www.youtube.com/watch?v=UVKsd8z6scw"Everything Is Hell")
 
 
 
-[![Hell](/common/images/IMG_4438-ANIMATION.gif)](https://www.youtube.com/tv#/watch?v=UVKsd8z6scw"well")
+[![Hell](/common/images/IMG_4438-ANIMATION.gif)](https://www.youtube.com/watch?v=UVKsd8z6scw"well")
 
-[]
 
 https://www.youtube.com/watch?v=OmNXCJt7K3Q
 that's about it
