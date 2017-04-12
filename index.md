@@ -27,7 +27,7 @@ He is
 **'cause im free**
 _You're gonna burn in hell_ 
 
-[![Hell](https://media2.giphy.com/media/zyN79NoU74pby/200_s.gif](https://www.youtube.com/watch?v=hUsafOL0kew "Everything Is Hell")
+[![Hell](https://media2.giphy.com/media/zyN79NoU74pby/200_s.gif)](https://www.youtube.com/watch?v=hUsafOL0kew "Everything Is Hell")
 
 [Hell](https://www.youtube.com/watch?v=hUsafOL0kew)
 
