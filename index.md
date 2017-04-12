@@ -1,37 +1,35 @@
-## CAn I make a commit now that I have reset my password ???
+## This is not a blog
 
-You can use the [editor on GitHub](https://github.com/HenrikAndresen/HenrikAndresen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There is nothing of interest here. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Keep on with your programming. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Marks down with it
+
+He is
 
 ```markdown
-Syntax highlighted code block
+down
 
-# Header 1
-## Header 2
-### Header 3
+# Down
+## Down
+### Down
 
-- Bulleted
-- List
+- Your gonna burn in hell
+- Don't you
 
-1. Numbered
-2. List
+1. Hear no evil
+2. See no evil
+3. Lay no evil down on me
+4. Spek no evil
+5. Think no evil
+6. Play with evil 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+**'cause im free**
+_You're gonna burn in hell_ 
+
+[Hell](https://www.youtube.com/watch?v=hUsafOL0kew)
+[Hell](https://media2.giphy.com/media/zyN79NoU74pby/200_s.gif)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HenrikAndresen/HenrikAndresen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
