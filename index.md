@@ -31,7 +31,7 @@ _You're gonna burn in hell_
 
 
 
-[![Hell](/common/images/IMG_4438-ANIMATION.gif)](https://www.youtube.com/watch?v=UVKsd8z6scw"well")
+[![Hell](/common/images/IMG_4438-ANIMATION.gif)](https://www.youtube.com/tv#/watch?v=UVKsd8z6scw"well")
 
 []
 
