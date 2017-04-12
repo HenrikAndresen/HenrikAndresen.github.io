@@ -9,9 +9,6 @@ Keep on with your programming.
 
 He is
 
-markdown
-down
-
 # Down
 ## Down
 ### Down
@@ -31,6 +28,7 @@ down
 _You're gonna burn in hell_ 
 
 [Hell](https://www.youtube.com/watch?v=hUsafOL0kew)
-[Hell](https://media2.giphy.com/media/zyN79NoU74pby/200_s.gif)
+
+![Hell](https://media2.giphy.com/media/zyN79NoU74pby/200_s.gif)
 
 that's about it
