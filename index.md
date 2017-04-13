@@ -35,5 +35,9 @@ _You're gonna burn in hell_
 [![Hell](/common/images/IMG_4438-ANIMATION.gif)](https://www.youtube.com/watch?v=UVKsd8z6scw"well")
 
 
-https://www.youtube.com/watch?v=OmNXCJt7K3Q
+[here we go ](https://www.youtube.com/watch?v=OmNXCJt7K3Q)
+
+[stats](./five.html)
+
+
 that's about it
